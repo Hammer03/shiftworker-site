@@ -1,4 +1,4 @@
-# ShiftWorker — Static Marketing Site
+# ShiftSleeper — Static Marketing Site
 
 Static HTML site for Render hosting. Three pages: home, privacy, terms.
 
@@ -13,7 +13,7 @@ Static HTML site for Render hosting. Three pages: home, privacy, terms.
 
 ## Update email + URLs before launch
 
-- Replace `hello@shiftworker.app` with your support email.
+- Replace `hello@shiftsleeper.app` with your support email.
 - Update Privacy/Terms `Last updated` dates as needed.
 - Drop a real `favicon.png` into this folder.
 
